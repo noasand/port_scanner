@@ -1,6 +1,6 @@
-# python port scanner
+# Port scanner
 
-simple python port scanner 
+Simple python port scanner 
 
 
 # Usage
